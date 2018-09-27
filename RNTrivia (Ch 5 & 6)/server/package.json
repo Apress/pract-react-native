@@ -1,0 +1,16 @@
+{
+  "name": "com.etherient.rntrivia",
+  "version": "1.0.0",
+  "description": "A trivia app written with React Native",
+  "main": "server.js",
+  "author": "Frank Zammetti",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "2.0.4",
+    "lodash": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

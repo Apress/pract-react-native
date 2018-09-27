@@ -1,0 +1,9 @@
+To fix problem with native-base components not being found (as per https://github.com/GeekyAnts/NativeBase/issues/1075):
+  In \node_modules\native-base\index.d.ts: comment the imports:
+    //import * as React from "react";
+    //import * as ReactNative from "react-native";
+
+
+In environment settings of the run configuration there is a REACT_NATIVE_PACKAGER_HOSTNAME variable that defines the IP
+address Expo listens on.  If it's not configured you SHOULD get an IP valid for the network the machine is on, but if
+not you can set a value here to force it.

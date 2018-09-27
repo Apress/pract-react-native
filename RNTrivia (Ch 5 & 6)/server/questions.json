@@ -1,0 +1,214 @@
+{ "questions" : [
+  { "question" : "What is the name of the Shadow's homeworld on Babylon 5?",
+    "answer" : "Z'ha'dum",
+    "decoys" : [ "Galifrey", "Hoth", "Arrakis", "Tagora", "Nihil", "Daxam", "Acheron", "Skaro", "Crematoria", "Qo'noS" ]
+  },
+  { "question" : "In Stargate SG-1, what galaxy is the lost city of Atlantis discovered to reside in?",
+    "answer" : "Pegasus",
+    "decoys" : [ "Andromeda", "Seraphia", "Triangulum", "Krell", "Virgo", "Kaliem", "Ida", "Shi'ar", "Xeno", "Isop" ]
+  },
+  { "question" : "In Isaac Asimov's book Foundation, who develops psychohistory?",
+    "answer" : "Hari Seldon",
+    "decoys" : [ "John Locke", "Conrad Arflane", "Jasper Olivaw", "George Shaw", "Londo Mollari", "Daniel Jackson",
+                 "Ro Laren", "Ahsoka Tano", "Terrence Hood", "Tony Stark" ]
+  },
+  { "question" : "Which of the following is NOT the name of a companion of The Doctor?",
+    "answer" : "Alexa Dornish",
+    "decoys" : [ "Rose Tyler", "Donna Noble", "Martha Jones", "Amy Pond", "Clara Oswald", "Grace Holloway",
+                 "Sarah Jane Smith", "Victoria Waterfield", "Jo Grant", "Tegan Jovanka" ]
+  },
+  { "question" : "Who wrote and directed Plan 9 from Outer Space?",
+    "answer" : "Ed Wood",
+    "decoys" : [ "Roland Emmerich", "Steven Spielberg", "David Cronenberg", "Tobe Hooper", "Ridley Scott", "George Pal",
+                 "Dan O'Bannon", "Val Guest", "Bert Gordon", "Brad Bird" ]
+  },
+  { "question" : "In Logan's Run, what age are people allowed to live to?",
+    "answer" : "30",
+    "decoys" : [ "18", "21", "25", "40", "50", "16", "35", "45", "75", "100" ]
+  },
+  { "question" : "What do the aliens in Arthur C. Clarke's novel Childhood's End look like?",
+    "answer" : "Devils",
+    "decoys" : [ "Humans", "Skeletons", "Frogs", "Lizards", "Grays", "Nordics", "Xenomorphs", "Klingons", "Wookies",
+                 "Q" ]
+  },
+  { "question" : "What is the name of the metal bonded to Wolverine's bones?",
+    "answer" : "Adamantium",
+    "decoys" : [ "Vibranium", "Unobtanium", "Einsteinium", "Mithril", "Osmium", "Orichalcum", "Chronoton", "Dilithium",
+                 "Kryptonite", "Naqahdah" ]
+  },
+  { "question" : "What is the robot's name in Forbidden Planet?",
+    "answer" : "Robby",
+    "decoys" : [ "Wall-E", "Marvin", "Gort", "Colossus", "Talos", "VINCENT", "Johnny 5", "Bishop", "Lore", "K-2SO" ]
+  },
+  { "question" : "What phrase does Klaatu tell Helen to use to stop Gort to stop in The Day the Earth Stood Still?",
+    "answer" : "Klaatu barada nikto",
+    "decoys" : [ "Hab SosLi' Quch", "Ha'tha ti'lu", "katheka shaysha zletha", "No hablo yo queso", "Turek Nouhrr",
+                 "hor auf die Erde anzugreifen", "cesu ataki teron", "parada de cortesia", "vumela ukuyeka",
+                 "obpugnantes Gort" ]
+  },
+  { "question" : "What happened in Sector 83 by 9 by 12 today?",
+    "answer" : "Absolutely nothing",
+    "decoys" : [ "The Bajoran wormhole opened", "Apophis attacked", "A rift in spacetime", "A dance-off", "Thanos died",
+                 "A supernova", "The Doctor appeared", "Kronos exploded", "Han Solo died", "Total protonic reversal" ]
+  },
+  { "question" : "How many arms do the Moties have?",
+    "answer" : "Three",
+    "decoys" : [ "None", "One", "Two", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Way Too Many" ]
+  },
+  { "question" : "What is Soylent Green?",
+    "answer" : "People",
+    "decoys" : [ "Insects", "Chickens", "Female Cows", "Plants", "Plastic", "Aliens", "Poo", "Cats", "Fish Guts",
+                 "Brains" ]
+  },
+  { "question" : "What is the name of the fictional country that Black Panther is king of?",
+    "answer" : "Wakanda",
+    "decoys" : [ "Arabia", "T'Chala", "Vellos", "Asgard", "Sakaar", "Rugatta", "Nigeria", "Constantinopal",
+                 "Gu'chakka", "Dukaht" ]
+  },
+  { "question" : "What is the name of the robot in Saturn 3?",
+    "answer" : "Hector",
+    "decoys" : [ "Robbie", "RoboCop", "Ratchet", "Clank", "Burt", "Ernie", "Hal", "Ralp", "Ed-209", "Maximillian" ]
+  },
+  { "question" : "What is the name of the planet blown up in Star Wars: A New Hope?",
+    "answer" : "Alderan",
+    "decoys" : [ "Camino", "Pandora", "Tatooine", "Hoth", "Risa", "Naboo", "Dagobah", "Vulcan", "Q'Nos", "Jedium" ]
+  },
+  { "question" : "What nationality were the men chasing the dog at the beginning of The Thing?",
+    "answer" : "Norwegian",
+    "decoys" : [ "Nordic", "French", "American", "Icelandic", "Russian", "Canadian", "Jamaican", "German",
+                 "Finnish", "Spanish" ]
+  },
+  { "question" : "Who directed Spaceballs?",
+    "answer" : "Mel Brooks",
+    "decoys" : [ "Ridley Scott", "David Fincher", "Peter Jackson", "David Twohy", "Steven Spielberg",
+                 "Joss Whedon", "Bill Murray", "Mike Baker", "George Lucas", "Mel Blanc" ]
+  },
+  { "question" : "What is the dual-pilot system in Pacific Rim called?",
+    "answer" : "Drifting",
+    "decoys" : [ "Combining", "Mixing", "Flipping", "Conjoining", "Echoing", "Driving", "Kaijuing",
+                 "Styling", "Profiling", "Minding" ]
+  },
+  { "question" : "In what real PA town can you find the theater from the original version of The Blob?",
+    "answer" : "Phoenixville",
+    "decoys" : [ "King of Prussia", "Mechanicsburg", "Reading", "Pittsburgh", "Pocono Mountain",
+                 "Sellersville", "Tannersville", "Germantown", "Lancaster", "Pottstown" ]
+  },
+  { "question" : "What movie introduced us to the adorable three-eyed aliens who hail from Pizza Planet?",
+    "answer" : "Toy Story",
+    "decoys" : [ "The Incredibles", "The Great Muppet Caper", "2001: A Space Odyssey", "Star Trek Beyond",
+                 "Harry and the Hendersons", "War of the Worlds", "Finding Nemo", "Return of the Jedi",
+                 "Shrek", "The Andromeda Strain" ]
+  },
+  { "question" : "What movie are the Hong Kong Cavaliers from?",
+    "answer" : "Buckaroo Banzai",
+    "decoys" : [ "Remo Villiams", "Videodrome", "Liquid Sky", "Strange Days", "Hackers", "Lawnmower Man",
+                 "Big Trouble in Little China", "Screamers", "The Abyss", "The Naked Lunch" ]
+  },
+  { "question" : "What is the long dead civilization in Forbidden Planet?",
+    "answer" : "Krell",
+    "decoys" : [ "Yotans", "Klingons", "Xenomorphs", "Ramans", "The Gyver", "Kree", "Borg", "Syntas",
+                 "Centauri", "Wookies" ]
+  },
+  { "question" : "Who is the leader of the Decepticons?",
+    "answer" : "Megatron",
+    "decoys" : [ "StarStalker", "Optimus Prime", "Bumblebee", "Cyclops", "Gandalf", "Destroyer", "BadBot",
+                 "Bender", "Maximillian", "Sonic Boom" ]
+  },
+  { "question" : "Who wrote Dr. Jekyll abd Mr. Hyde?",
+    "answer" : "Robert Louis Stevenson",
+    "decoys" : [ "H.G. Wells", "Stephen King", "Neil Gaimon", "William Shakespeare", "Allstair Reynolds",
+                 "Isaac Asimov", "Arthur C. Clarke", "Usula K. Le Guin", "Ray Bradbury", "Robert Heinlein" ]
+  },
+  { "question" : "Who is the inventor of warp drive?",
+    "answer" : "Zephram Cochrane",
+    "decoys" : [ "Geordi LaForge", "Tony Stark", "Bruce Banner", "James T. Kirk", "Han Solo", "Bruce Boxleitner",
+                 "Kevin Flynn", "T'Pol of Vulcan", "Katherine Janeway", "Dr. Morbius" ]
+  },
+  { "question" : "What are the names of the robot companions in Mystery Science Theater 3000",
+    "answer" : "Tom and Crow",
+    "decoys" : [ "Heckle and Jeckle", "Huey and Dewey", "R2D2 and C-3PO", "Gypsy and Cambot",
+                 "Bender and Fry", "Wikkus and Barry", "Robbie and VINCENT", "Beavis and Butthead",
+                 "Sarah Connor and John Connor", "T-800 and T-1000" ]
+  },
+  { "question" : "What are the 'them' in the movie 'Them!'?",
+    "answer" : "Ants",
+    "decoys" : [ "Mice", "Flies", "Squirrels", "Frogs", "Centipedes", "Spiders", "Bees", "Aliens",
+                 "Vampires", "Wearwolves" ]
+  },
+  { "question" : "Which movie spawned a famous (animated) meme that is very much NSFL?",
+    "answer" : "Scanners",
+    "decoys" : [ "King Kong", "Planet of the Apes", "Helix", "Ant-Man", "2010", "Leviathon",
+                 "The Toxic Avenger", "Invasion of the Bodysnatchers", "Spaceballs", "The Fly" ]
+  },
+  { "question" : "The last starfighter...",
+    "answer" : "...is dead!",
+    "decoys" : [ "...brought dessert!", "...is attacking!", "...left the solar system!",
+                 "...has exploded!", "...said hello!", "...is awesome!", "...flies really good!",
+                 "...is Centauri!", "...plays video games!", "...should be rebooted!" ]
+  },
+  { "question" : "What is the only phrase Groot says in Guardians of the Galaxy Vol. 2?",
+    "answer" : "I am Groot",
+    "decoys" : [ "I am hungry", "We should go", "I say no", "Here we go", "I'm a tree", "Rocket's my friend",
+                 "We are guardians", "Here comes Thanos", "I like beer", "Yo jaffa kree" ]
+  },
+  { "question" : "What does Barry Allen call it when he alters the timeline by going back in time?",
+    "answer" : "Flashpoint",
+    "decoys" : [ "Singularity", "X-Time", "Flash-forward", "Argus", "Nexus", "X-Force", "Quantum Mirror",
+                 "The Mirror Universe", "The Q Continuum", "Flashgate" ]
+  },
+  { "question" : "Who doesn't have time to bleed?",
+    "answer" : "Blain",
+    "decoys" : [ "Dutch", "Billy", "Hawkins", "Poncho", "Mac", "Anna", "Dillon", "Harrigan", "King Willie",
+                 "Keyes" ]
+  },
+  { "question" : "Who is Luke Skywalker's father?",
+    "answer" : "Darth Vader",
+    "decoys" : [ "Dark Sidious", "Ben Kenobi", "Commander Sitwell", "Jabba the Hutt", "Bobba Fett", "Han Solo",
+                 "Ro Laren", "Gandalf", "James T. Kirk", "Tony Stark" ]
+  },
+  { "question" : "What superhero is Tony Stark's alter ego?",
+    "answer" : "Iron Man",
+    "decoys" : [ "Captain America", "Dr. Strange", "Spider-Man", "Thanos", "Black Widow", "War Machine",
+                 "Vision", "The Hulk", "Thor", "Star Lord" ]
+  },
+  { "question" : "Complete this title: Close Encounters of the ??? Kind",
+    "answer" : "Third",
+    "decoys" : [ "Alien", "Weird", "Sixth", "Marvel", "Anal Probe", "Dreyfus", "E.T.", "Future",
+                 "Spooky", "Mashed Potatoes" ]
+  },
+  { "question" : "Which series features the Starship Enterprise?",
+    "answer" : "Star Trek",
+    "decoys" : [ "Alien", "Stargate", "Star Wars", "My Favorite Martian", "SeaQuest DSV", "The X-Files",
+                 "Space: 1999", "Battlestar Galactica", "Babylon 5", "The Big Bang Theory" ]
+  },
+  { "question" : "Lieutenant Ellen Ripley is from which movie?",
+    "answer" : "Alien",
+    "decoys" : [ "Star Wars", "Captain Marvel", "Real Genius", "The Hunt for Red October", "Space Blues",
+                 "Pitch Black", "The Terminator", "The Abyss", "Infinity War", "G.I. Jane" ]
+  },
+  { "question" : "Which series features the Starship Enterprise?",
+    "answer" : "Star Trek",
+    "decoys" : [ "Alien", "Stargate", "Star Wars", "My Favorite Martian", "SeaQuest DSV", "The X-Files",
+                 "Space: 1999", "Battlestar Galactica", "Babylon 5", "The Big Bang Theory" ]
+  },
+  { "question" : "Who is the first commander of Babylon 5?",
+    "answer" : "Jeffrey Sinclai",
+    "decoys" : [ "Steve Rogers", "John Sheridan", "Han Solo", "Kara Thrace", "Benjamin Sisko", "Jean Luc Picard",
+                 "Marco Ramius", "Londo Mollari", "Michael Garibaldi", "Sheldon Cooper" ]
+  },
+  { "question" : "In the movie Independence Day, what day is the final  battle fought on?",
+    "answer" : "July 4",
+    "decoys" : [ "December 25", "October 31", "January 1", "February 17", "June 12", "September 11",
+                 "March 10", "April 13", "May 23", "August 4" ]
+  },
+  { "question" : "What is Superman's one vulnerability?",
+    "answer" : "Kryptonite",
+    "decoys" : [ "Hote wings", "Girls with red hair", "Polonium", "Vibranium", "Spaghetti", "Carbs",
+                 "Silver bullets", "Alcoholo", "Mithril", "Batman's tears" ]
+  },
+  { "question" : "What does E.T. stand for in the movie of that name?",
+    "answer" : "Extra Terrestrial",
+    "decoys" : [ "Evil Twig", "Emergent Terror", "Extreme Traitor", "Exigent Terrestrial", "Evil Terror",
+    	           "Every Time", "Early Tweeters", "Ex Tamagria", "Elliot Terry", "Exquisite Tears" ]
+  }
+]}
